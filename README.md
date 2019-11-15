@@ -3,3 +3,4 @@
 # ATM Machine
 
 ### This project is for educational porpuses only.
+##### Checking balance, withraw or put funds into acc. 
